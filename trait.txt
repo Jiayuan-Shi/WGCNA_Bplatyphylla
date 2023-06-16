@@ -1,4 +1,4 @@
-ID	Sperm	Mircospore	Microspore_development	Suppressor
+ID	Sperm	Microspore_development	Microsporocyte_development	Inhibited_development
 S1-1	0	0	1	0
 S1-2	0	0	1	0
 S1-3	0	0	1	0
