@@ -1,0 +1,16 @@
+ID	Sperm	Mircospore	Microspore_development	Suppressor
+bp10Z-1	0	0	1	0
+bp10Z-2	0	0	1	0
+bp10Z-3	0	0	1	0
+bp12Z-1	0	1	0	0
+bp12Z-2	0	1	0	0
+bp12Z-3	0	1	0	0
+bp3Z-1	0	1	0	0
+bp3Z-2	0	1	0	0
+bp3Z-3	0	1	0	0
+bp4Z-1	1	0	0	1
+bp4Z-2	1	0	0	1
+bp4Z-3	1	0	0	1
+bp5Z-1	1	0	0	0
+bp5Z-2	1	0	0	0
+bp5Z-3	1	0	0	0
