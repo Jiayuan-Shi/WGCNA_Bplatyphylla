@@ -1,4 +1,4 @@
-ID	Overwintering_process	Microspore_development	Microsporocyte_development	Cold_inhibited_development
+ID	Recovery_phase	Microspore_development	Microsporocyte_development	Cold_inhibited_development
 S1-1	0	0	1	0
 S1-2	0	0	1	0
 S1-3	0	0	1	0
